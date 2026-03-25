@@ -23,6 +23,8 @@ express-session (authentication sessions)
 🚀 Setup Instructions
 1. Clone the repository
 git clone <repo-url>
+unzip the folder
+in CMD or powershell
 cd study-planner
 2. Install dependencies
 npm install
